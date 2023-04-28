@@ -1,6 +1,3 @@
-Sure, here is a possible `README.md` file for the `yii2-bootstrap-detector` component:
-
-```
 # Yii2 Bootstrap Detector
 
 A Yii2 component to detect the used Bootstrap version and return it.
