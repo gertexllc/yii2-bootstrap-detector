@@ -2,6 +2,8 @@
   "name": "gertexllc/yii2-bootstrap-detector",
   "description": "A Yii2 component to detect the used Bootstrap version and return it.",
   "type": "library",
+  "keywords": ["yii2", "bootstrap", "detector"],
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "gertexllc\\yii2bootstrapdetector\\": "src/"
