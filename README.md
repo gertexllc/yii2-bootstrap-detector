@@ -38,4 +38,4 @@ This component is released under the MIT License. See the [LICENSE](LICENSE) fil
 
 ## Author
 
-The `VinDecoder` was developed and brought to you free of charge by GerTex, LLC
+The `BootstrapDetector` was developed and brought to you free of charge by GerTex, LLC
